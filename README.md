@@ -48,4 +48,4 @@ A Blog Management System built with PHP, MySQL, and Bootstrap that allows users,
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/blog-management-system.git
+   git clone https://github.com/your-username/php-blog-management-system.git
